@@ -24,11 +24,12 @@ This Python project provides tools for detecting, adjusting, and transferring hu
 
     Example outputs are provided using CFD database images, which were utilized as test samples for this project. 
 
-    ![image](https://github.com/user-attachments/assets/d9c4bd5e-94d1-4e33-bfe0-d4d348bec3a5)
+
+   ![image](https://github.com/user-attachments/assets/d9c4bd5e-94d1-4e33-bfe0-d4d348bec3a5)
 
 
-    ![image](https://github.com/user-attachments/assets/aca170e8-b436-4841-874d-317397d3b177)
+   ![image](https://github.com/user-attachments/assets/aca170e8-b436-4841-874d-317397d3b177)
 
-    ![image](https://github.com/user-attachments/assets/8c2368e5-11a5-49d6-bcfe-8ec052b2daf7)
+   ![image](https://github.com/user-attachments/assets/8c2368e5-11a5-49d6-bcfe-8ec052b2daf7)
 
 
